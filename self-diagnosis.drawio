@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-05T10:00:17.292Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="QfPGJ2lRM0WQlvh6Aw_3" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-05T10:03:30.046Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="muF0twxS4YlX8ZCnMTre" version="13.6.2" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1395" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -65,6 +65,9 @@
               <mxPoint x="640" y="70" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fLh4m_JT4PHfjXe0jONh-45" value="法務・財務&lt;br&gt;MDI&amp;amp;IT・品証など" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;rounded=0;sketch=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+          <mxGeometry x="20" y="30" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-20" value="監査部" style="swimlane;html=1;startSize=20;horizontal=0;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="20" y="120" width="1140" height="160" as="geometry" />
